@@ -12,6 +12,14 @@ Decode CINRAD (China New Generation Weather Radar) data and visualize.
 
 **`example`文件夹里有详细的使用示例！**
 
+## 开发环境
+1. 源码克隆
+```
+git clone
+```
+2. PyCharm打开项目
+3. 创建conda环境（3.10）
+
 ## 安装
 
 ### 安装方法
